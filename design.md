@@ -1,21 +1,21 @@
 # Design Background for Make it Markdown
 
-## Purpose and principles
+## Purpose and Principles
 
-Publish great tutorials and howto docs that allow non-technical users to:
+Explain to non-technical but sophisticated people how and why to use markdown-based tools to create websites, knoweldgebases, wikis, docs and more.
 
-- autonomously update and manage markdown-based sites published with Flowershow (e.g. https://lifeitself.org)
-- autonomously create and publish catalog content like https://lifeitself.org/ecosystem
+Drilling down, initially the focus would be for Life Itself team.
 
 Principles
 
-- Publish the tutorials means online at a nice url (not just on github)
 - Have a single entry point for users
 - Focus on addressing immediate need and make generic as we iterate rather the other way round
+  - autonomously update and manage markdown-based sites published with Flowershow (e.g. https://lifeitself.org)
+  - autonomously create and publish catalog content like https://ecosystem.lifeitself.org/
 
-## Why (for the world)
+## Outcome visioning
 
-TODO
+A website with an extensive step-by-step tutorial like old-school nextjs.org/learn ([as it was back in 2020](https://web.archive.org/web/20200421114352/https://nextjs.org/learn/basics/create-nextjs-app)) on how to do markdown-based websites (plus knowledgebases, docs etc) including "**why** markdown-based is awesome (and what you can use it for) AND **how**.
 
 ## Background and Motvation: Why we want this guide to building markdown-based sites (for ourselves)
 
