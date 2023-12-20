@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tutorials/create-a-website-from-scratch.md",
+                "file": "content/howtos/edit-or-add-md-pages-locally.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/tutorials/create-a-website-from-scratch.md",
+                "file": "content/howtos/edit-or-add-md-pages-locally.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/tutorials/create-a-website-from-scratch.md",
+                "file": "content/howtos/edit-or-add-md-pages-locally.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/tutorials/create-a-website-from-scratch.md"
+                "file": "content/howtos/edit-or-add-md-pages-locally.md"
               }
             }
           }
@@ -173,13 +173,13 @@
   },
   "active": "254a02d54852bc03",
   "lastOpenFiles": [
-    "content/tutorials/edit-a-website-locally.md",
+    "content/howtos/how-to-add-images-to-a-md-page.md",
+    "content/howtos/edit-or-add-md-pages-locally.md",
     "content/tutorials/create-a-website-from-scratch.md",
+    "content/tutorials/edit-a-website-locally.md",
     "content/howtos/add-a-simple-md-page.md",
     "content/howtos/create-a-simple-catalog-of-anything.md",
-    "content/howtos/edit-or-add-md-pages-locally.md",
     "content/howtos/edit-text-on-a-single-md-page.md",
-    "content/howtos/how-to-add-images-to-a-md-page.md",
     "content/tutorials",
     "content",
     "blog/edit-or-add-md-pages-locally.md",
