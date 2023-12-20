@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6add48192ccb55a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,17 +159,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3579a96a7fba4517",
+  "active": "6add48192ccb55a3",
   "lastOpenFiles": [
+    "create-a-simple-catalog-of-anything.md",
+    "README.md",
+    "publish-obsidian-vault-to-github.md",
+    "how-to-add-images-to-a-md-page.md",
+    "edit-or-add-md-pages-locally.md",
+    "add-a-simple-md-page.md",
+    "edit-text-on-a-single-md-page.md",
+    "quickly-create-a-sandbox-website.md",
+    "edit-a-website-locally.md",
+    "create-a-website-from-scratch.md",
+    "Tutorial 1 - Create a website from scratch using Markdown and Flowershow.md",
+    "why.md",
     "Assets/tutorial-2-result.png",
     "Assets/tutorial-1-result.png",
-    "README.md",
     "tutorial-1-result-screenshot.jpg.md",
     "Assets/tutorial-1-result-screenshot.jpg",
     "Assets/tutorial-1-result.png.md",
     "Assets",
     "design.md",
-    "github.md",
-    "why.md"
+    "github.md"
   ]
 }
