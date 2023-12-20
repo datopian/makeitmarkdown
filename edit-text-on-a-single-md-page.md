@@ -1,3 +1,4 @@
+# How to quickly edit text on a single Markdown-based page
 
 Welcome to this tutorial on how to quickly edit text content on a single Markdown-based page. The steps here are designed for non-technical contributors. There's no need to know how to code!
 
