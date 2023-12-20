@@ -4,7 +4,7 @@
 
 Here, you will learn how to add images to a Markdown-based page. These instructions show how to add these images locally, on your computer, so first you need to know how to work locally with GitHub Desktop app and Obsidian. If you're new to these tools, we recommend reading this howto first:
 
-- [[blog/edit-or-add-md-pages-locally|How to edit or add Markdown pages locally]]
+- [[edit-or-add-md-pages-locally]]
 
 Or you can follow these two tutorials to start from scratch:
 
