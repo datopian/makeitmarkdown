@@ -1,0 +1,1 @@
+[tutorial-1-result.png](https://github.com/datopian/portaljs/blob/main/site/content/assets/blog/tutorial-1-result.png "tutorial-1-result.png")
