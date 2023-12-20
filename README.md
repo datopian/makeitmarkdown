@@ -15,7 +15,6 @@ By the end of this tutorial you will:
 
 Below is a screenshot of how the final website will look like:
 ![[tutorial-1-result.png]]
-
 #### Setup a sandbox website including live publishing
 
 - Prerequisites: sign up for GitHub and Vercel
