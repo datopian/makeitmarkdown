@@ -22,6 +22,6 @@ Once you are on the Congratulations screen, click on the preview of your sandbox
 
 For instructions on how to add and edit pages, we recommend these howtos:
 
-- [[howtos/add-a-simple-md-page|How to add a simple markdown page]]
-- [[howtos/edit-text-on-a-single-md-page|How to edit text on a single markdown-based page]]
-- [[howtos/edit-or-add-md-pages-locally|How to edit or add a markdown page locally on your computer]]
+- [[add-a-simple-md-page|How to add a simple markdown page]]
+- [[edit-text-on-a-single-md-page|How to edit text on a single markdown-based page]]
+- [[content/howtos/edit-or-add-md-pages-locally|How to edit or add a markdown page locally on your computer]]

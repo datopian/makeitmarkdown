@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/howtos/edit-or-add-md-pages-locally.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "254a02d54852bc03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/tutorials/create-a-website-from-scratch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/tutorials/create-a-website-from-scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/tutorials/create-a-website-from-scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "content/tutorials/create-a-website-from-scratch.md"
               }
             }
           }
@@ -159,26 +171,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6add48192ccb55a3",
+  "active": "254a02d54852bc03",
   "lastOpenFiles": [
-    "edit-a-website-locally.md",
+    "content/tutorials/edit-a-website-locally.md",
+    "content/tutorials/create-a-website-from-scratch.md",
+    "content/howtos/add-a-simple-md-page.md",
+    "content/howtos/create-a-simple-catalog-of-anything.md",
+    "content/howtos/edit-or-add-md-pages-locally.md",
+    "content/howtos/edit-text-on-a-single-md-page.md",
+    "content/howtos/how-to-add-images-to-a-md-page.md",
+    "content/tutorials",
+    "content",
+    "blog/edit-or-add-md-pages-locally.md",
+    "blog",
+    "content/howtos/publish-obsidian-vault-to-github.md",
+    "content/howtos/quickly-create-a-sandbox-website.md",
+    "content/howtos",
     "README.md",
-    "create-a-website-from-scratch.md",
-    "create-a-simple-catalog-of-anything.md",
-    "publish-obsidian-vault-to-github.md",
-    "how-to-add-images-to-a-md-page.md",
-    "edit-or-add-md-pages-locally.md",
-    "add-a-simple-md-page.md",
-    "edit-text-on-a-single-md-page.md",
-    "quickly-create-a-sandbox-website.md",
     "Tutorial 1 - Create a website from scratch using Markdown and Flowershow.md",
     "why.md",
-    "Assets/tutorial-2-result.png",
-    "Assets/tutorial-1-result.png",
+    "content/assets/tutorial-2-result.png",
+    "content/assets/tutorial-1-result.png",
     "tutorial-1-result-screenshot.jpg.md",
     "Assets/tutorial-1-result-screenshot.jpg",
     "Assets/tutorial-1-result.png.md",
-    "Assets",
+    "content/assets",
     "design.md",
     "github.md"
   ]
