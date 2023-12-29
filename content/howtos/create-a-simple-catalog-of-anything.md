@@ -1,4 +1,4 @@
-# How to create a simple catalog of anything in Obsidian
+# How to create a simple of catalog of anything using Markdown files in Obsidian
 
 Have you ever wanted to create a catalog of stuff? Maybe it's a list of personal projects, maybe favourite books or movies, or perhaps the options for the next smartphone you'll buy. But you've found yourself deterred by expensive software, lack of flexibility in capturing and modifying the structure of the data, or lack of control over it?
 
