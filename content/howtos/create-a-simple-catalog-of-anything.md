@@ -1,5 +1,7 @@
 # How to create a simple of catalog of anything using Markdown files in Obsidian
 
+![[dataview.gif]]
+
 Have you ever wanted to create a catalog of stuff? Maybe it's a list of personal projects, maybe favourite books or movies, or perhaps the options for the next smartphone you'll buy. But you've found yourself deterred by expensive software, lack of flexibility in capturing and modifying the structure of the data, or lack of control over it?
 
 Markdown files, with their unique combination of 1) rich content, including text, images, links, and more, with 2) structured metadata allowing for data retrieval, are an excellent tool for this task. These features, coupled with the user-friendly interface of Obsidian and the analytical power of the Dataview plugin, make creating a data catalog an easy task. And it's free!
