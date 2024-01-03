@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "6add48192ccb55a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/howtos/edit-or-add-md-pages-locally.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "254a02d54852bc03",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,16 +161,17 @@
   },
   "active": "254a02d54852bc03",
   "lastOpenFiles": [
+    "README.md",
+    "content/howtos/edit-or-add-md-pages-locally.md",
+    "content/howtos/create-a-simple-catalog-of-anything.md",
     "content/assets/link-preview.png",
     "content/assets/harry.png",
     "content/assets/harry_original.png",
     "content/assets/table2.png",
     "content/assets/table1.png",
     "table1.png.md",
-    "content/howtos/create-a-simple-catalog-of-anything.md",
     "content/tutorials/create-a-website-from-scratch.md",
     "content/howtos/edit-text-on-a-single-md-page.md",
-    "content/howtos/edit-or-add-md-pages-locally.md",
     "content/howtos/add-a-simple-md-page.md",
     "content/howtos/publish-obsidian-vault-to-github.md",
     "content/howtos/quickly-create-a-sandbox-website.md",
@@ -194,7 +183,6 @@
     "blog/edit-or-add-md-pages-locally.md",
     "blog",
     "content/howtos",
-    "README.md",
     "Tutorial 1 - Create a website from scratch using Markdown and Flowershow.md",
     "why.md",
     "content/assets/tutorial-2-result.png",
