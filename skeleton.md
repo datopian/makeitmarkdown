@@ -1,10 +1,75 @@
-# Home page
+# Skeleton (condensed)
+
+#### Home Page
+- Welcome to Makeitmarkdown!
+- What is Markdown?
+	- lightweight markup language used to format text (break this down + give examples)
+	- Differences with WYSIWYG editors
+- Why use Markdown?
+	- Simple and intuitive
+	- Portable and compatible
+	- Flexible and extensible
+	- Platform-independent
+- The MOGF approach
+	- An approach for working with Markdown to publish content on the web
+	- Components (besides Markdown):
+		- GitHub - version control for collaborating on web pages
+		- Obsidian - Markdown-based note-taking software that syncs with GitHub for offline editing; extended version of Markdown; adding multiple files at once
+		- Flowershow - converting Markdown files into websites; Obsidian-compatible
+- About this guide
+	- Guides you through basics of creating a website using the MOGF approach
+	- By the end, you will be able to:
+		- Create a website from scratch using Markdown and Flowershow
+		- Edit your Flowershow website locally on your computer using Obsidian
+		- Collaborate with others on your website project
+		- Customise your website locally and preview your changes locally
+- Let's get started!
+
+#### Tutorial series
+- Tutorial 1: Create a website from scratch using Markdown and Flowershow
+	- Recap (of basics above)
+	- What you'll learn
+	- Prerequisites
+	- Setting up a website
+	- Editing a page on your website
+	- Add a simple Markdown-based page
+	- What's next?
+- Tutorial 2: Edit your Flowershow website locally on your computer using Obsidian
+	- Recap
+	- What you'll learn
+	- Prerequisites
+	- Clone the GitHub repository on your computer
+	- Edit your site in Obsidian
+	- Save and publish your changes
+	- What's next?
+- Tutorial 3: Collaborating with others on your website project
+	- Recap
+	- What you'll learn
+	- Create a new branch
+	- Make changes in the new branch
+	- Create a pull request (PR)
+	- Review and merge a pull request
+	- Resolving conflicts
+	- What's next?
+- Tutorial 4: Customising your website locally and previewing your changes locally
+	- Recap
+	- What you'll learn
+	- Previewing the site locally
+	- Changing the site title and description
+	- Configuring the title, description and navbar
+	- Integrating with Google Analytics
+	- Customising the Tailwind theme
+	- Congratulations! Where to go from here
+
+
+# Skeleton (full version)
+## Home page
 
 Welcome to Make it Markdown! Here you can learn how to build markdown-based websites, docs, knowledgebases and more – and why a markdown-based approach is awesome 🦸‍♀️
 
 ### What is Markdown?
 
-[Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language used to format text
+- [Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language used to format text
 - In WYSIWYG editors (e.g. Word), you click buttons to format text and the changes are immediately visible; in markdown you add syntax to the text to indicate how it should be formatted, e.g. `**xxx**` to indicate bold
 
 ### Why use Markdown? 
@@ -27,16 +92,22 @@ Welcome to Make it Markdown! Here you can learn how to build markdown-based webs
 	- It previews formatted text
 	- Supports an extended version of Markdown that includes majority of elements from CommonMark and GFM, while also introducing its own unique features, like [wiki-links](https://help.obsidian.md/Linking+notes+and+files/Internal+links) or [callouts](https://help.obsidian.md/Editing+and+formatting/Callouts).
 	-  Using Obsidian gets around some of the limitations of using GitHub UI:
+		- Offline editing
 		- GitHub UI will only preview GitHub Flavoured Markdown. And while it's a majority of Markdown you would write, it won't be able to render Obsidian-only (or Flowershow-only) syntax elements, like callouts, wiki-links or inline table of contents
 		- It also doesn't allow you to make changes (or to add) multiple files at once
 - **[Flowershow](https://flowershow.app/)** is an open-source tool for easily converting markdown files into a website
 		- Flowershow template is Obsidian-compatible, meaning it supports (or aims to support) all of the Obsidian Markdown features
 
 ### About this guide
-- This series of tutorials will guide you through creating, editing, collaborating on and customising a website using the MOGF approach
+- This series of tutorials will guide you through the basics of creating a website using the MOGF approach
+- By the end, you will be able to:
+	- Create a website from scratch using Markdown and Flowershow
+	- Edit your Flowershow website locally on your computer using Obsidian
+	- Collaborate with others on your website project
+	- Customise your website locally and preview your changes locally
 - Let's get started! ['Start Now' button below]
 
-# Tutorial 1: Create a website from scratch using Markdown and Flowershow
+## Tutorial 1: Create a website from scratch using Markdown and Flowershow
 
 ### 1. Introduction
 
@@ -77,7 +148,7 @@ Welcome to Make it Markdown! Here you can learn how to build markdown-based webs
 - Limitations of editing on GitHub UI - no offline working, adding multiple files, previewing markdown elements
 - Using Obsidian to edit content locally on computer gets around these limitations
 
-# Tutorial 2: Edit your Flowershow website locally on your computer using Obsidian
+## Tutorial 2: Edit your Flowershow website locally on your computer using Obsidian
 
 ### 1. Introduction
 - Recap - we have a markdown-based website on Flowershow which we have edited on GitHub
@@ -115,7 +186,7 @@ Welcome to Make it Markdown! Here you can learn how to build markdown-based webs
 - What happens if more than one person want to make changes to the site?
 - In next tutorial, we will learn how to create a new branch of the repository locally and then merge changes with the web version
 
-# Tutorial 3: Collaborating with others on your website project
+## Tutorial 3: Collaborating with others on your website project
 
 ### 1. Introduction
 - Recap
