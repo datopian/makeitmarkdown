@@ -2,6 +2,8 @@
 
 Learn how you can build markdown-based websites, docs, knowledgebases and more -- and why a markdown-based approach is awesome 🦸‍♀
 
+[(Link to tutorial sequence)](introduction)
+
 ## Tutorials
 
 ### Tutorial 1: Create a website from scratch using markdown and PortalJS
