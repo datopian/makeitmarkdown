@@ -1,3 +1,5 @@
+# Background and motivation
+
 ### What is Markdown?
 
 - [Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language used to format text
@@ -33,4 +35,4 @@
 
 - Next, we'll jump into creating a website from scratch using Markdown and Flowershow.
 
-[Tutorial 1](tutorial-1)
+[Next](tutorial-1)

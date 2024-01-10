@@ -1,4 +1,4 @@
-## Tutorial 1: Create a website from scratch using Markdown and Flowershow
+# Tutorial 1: Create a website from scratch using Markdown and Flowershow
 
 ### 1. Introduction
 
@@ -39,4 +39,4 @@
 - Limitations of editing on GitHub UI - no offline working, adding multiple files, previewing markdown elements
 - Using Obsidian to edit content locally on computer gets around these limitations
 
-[Tutorial 2](tutorial-2)
+[Next](tutorial-2)

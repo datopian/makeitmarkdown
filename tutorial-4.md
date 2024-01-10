@@ -1,4 +1,4 @@
-## Tutorial 4: Customising your website locally and previewing your changes locally
+# Tutorial 4: Customising your website locally and previewing your changes locally
 
 ### 1. Introduction
 

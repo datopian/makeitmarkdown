@@ -1,4 +1,4 @@
-## Tutorial 2: Edit your Flowershow website locally on your computer using Obsidian
+# Tutorial 2: Edit your Flowershow website locally on your computer using Obsidian
 
 ### 1. Introduction
 - Recap - we have a markdown-based website on Flowershow which we have edited on GitHub
@@ -36,4 +36,4 @@
 - What happens if more than one person want to make changes to the site?
 - In next tutorial, we will learn how to create a new branch of the repository locally and then merge changes with the web version
 
-[Tutorial 3](tutorial-3)
+[Next](tutorial-3)
