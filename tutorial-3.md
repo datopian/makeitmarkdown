@@ -1,4 +1,4 @@
-## Tutorial 3: Collaborating with others on your website project
+# Tutorial 3: Collaborating with others on your website project
 
 ### 1. Introduction
 - Recap
@@ -41,5 +41,5 @@
 
 ### 7. What's next?
 
-[Tutorial 4](tutorial-4)
+[Next](tutorial-4)
 
