@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn/tutorial-4.md",
+                "file": "learn/tutorial-1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a30d6bb02036a0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learn/tutorials/create-a-website-from-scratch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn/tutorial-4.md",
+                "file": "learn/tutorial-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn/tutorial-4.md",
+                "file": "learn/tutorial-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn/tutorial-4.md"
+                "file": "learn/tutorial-1.md"
               }
             }
           }
@@ -148,11 +160,24 @@
   },
   "active": "d7cebf8f9c4275ee",
   "lastOpenFiles": [
+    "learn/assets/tutorial-1-copy-link-to-repo.png",
+    "learn/assets/tutorial-1-commit-changes.png",
+    "learn/assets/tutorial-1-add-content.png",
+    "learn/assets/tutorial-1-edit-readme.png",
+    "README.md",
+    "learn/tutorial-1.md",
+    "learn/assets/tutorial-1-subdomain-update.png",
+    "learn/assets/tutorial-1-subdomain.png",
+    "learn/assets/tutorial-1-add-readme.png",
+    "learn/assets/tutorial-1-create-site.png",
+    "learn/assets/tutorial-1-repo-name.png",
+    "learn/tutorials/create-a-website-from-scratch.md",
+    "learn/assets/tutorial-1-create-new.png",
+    "learn/tutorials/edit-a-website-locally.md",
+    "learn/tutorial-4.md",
     "learn/tutorial-3.md",
     "learn/tutorial-2.md",
-    "learn/tutorial-1.md",
     "learn/introduction.md",
-    "learn/background.md",
-    "README.md"
+    "learn/background.md"
   ]
 }
