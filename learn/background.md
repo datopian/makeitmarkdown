@@ -36,20 +36,12 @@ Markdown can be easily customised according to your needs and preferences. There
 
 You can create Markdown-formatted files on any device and with any operating system.
 
-Markdown is everywhere
-
 #### Markdown is future-proof
 
 Because Markdown is just ASCII text, it is future-proof.
 
-"Even if the application you’re using stops working at some point in the future, you’ll still be able to read your Markdown-formatted text using a text editing application."
+> "Even if the application you’re using stops working at some point in the future, you’ll still be able to read your Markdown-formatted text using a text editing application." ([source](https://stymied.medium.com/why-you-should-and-should-not-use-markdown-1b9d70987792))
 
-#### Markdown can be used for everything
-
-
-- "since it’s just text, it’s easy to manage with any source control tool. That gives you version history and makes it possible to merge and diff Markdown as easily as any other text file." ([source](https://stymied.medium.com/why-you-should-and-should-not-use-markdown-1b9d70987792#:~:text=Its%20main%20purpose%20was%20to,HTML%20is%20a%20publishing%20format.))
-
-([source 1](https://www.markdownguide.org/getting-started/), [source 2](https://www.linkedin.com/pulse/intro-markdown-benefits-drawbacks-sully-vickers), [source 3](https://stymied.medium.com/why-you-should-and-should-not-use-markdown-1b9d70987792#:~:text=Its%20main%20purpose%20was%20to,HTML%20is%20a%20publishing%20format.))
 
 ### The MOGF approach
 
@@ -81,4 +73,4 @@ Lastly, Obsidian automatically previews formatted text, which can make for a smo
 
 - Next, we'll jump into creating a website from scratch using Markdown and Flowershow.
 
-[Next](tutorial-1.md)
+[Next](tutorial-1)
