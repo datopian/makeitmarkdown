@@ -13,4 +13,4 @@ By the end of this tutorial series, you will:
 
 If you are already familiar with what Markdown is and want to jump straight into learning how to build a website using the MOGF approach, feel free to skip the next section. Otherwise, click below to get started! 
 
-[Start Now](background.md)
+[Start Now](learn/background.md)

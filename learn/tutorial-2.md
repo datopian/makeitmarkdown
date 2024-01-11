@@ -36,4 +36,4 @@
 - What happens if more than one person want to make changes to the site?
 - In next tutorial, we will learn how to create a new branch of the repository locally and then merge changes with the web version
 
-[Next](tutorial-3.md)
+[Next](learn/tutorial-3.md)
