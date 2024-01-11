@@ -39,4 +39,4 @@
 - Limitations of editing on GitHub UI - no offline working, adding multiple files, previewing markdown elements
 - Using Obsidian to edit content locally on computer gets around these limitations
 
-[Next](learn/tutorial-2.md)
+[Next](tutorial-2.md)
