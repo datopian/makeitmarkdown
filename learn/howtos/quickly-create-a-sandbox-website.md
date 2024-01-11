@@ -24,4 +24,4 @@ For instructions on how to add and edit pages, we recommend these howtos:
 
 - [[add-a-simple-md-page|How to add a simple markdown page]]
 - [[edit-text-on-a-single-md-page|How to edit text on a single markdown-based page]]
-- [[content/howtos/edit-or-add-md-pages-locally|How to edit or add a markdown page locally on your computer]]
+- [[edit-or-add-md-pages-locally|How to edit or add a markdown page locally on your computer]]
