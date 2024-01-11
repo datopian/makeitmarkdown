@@ -81,4 +81,4 @@ Lastly, Obsidian automatically previews formatted text, which can make for a smo
 
 - Next, we'll jump into creating a website from scratch using Markdown and Flowershow.
 
-[Next](tutorial-1)
+[Next](tutorial-1.md)
