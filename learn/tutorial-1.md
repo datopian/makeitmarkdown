@@ -6,8 +6,8 @@ In this tutorial, we will walk you through creating an elegant, fully functional
 
 By the end of this tutorial you will:
 
-- have a working markdown-based website.
-- be able to edit the text and add pages, all from an online interface without installing anything.
+- Have a working markdown-based website.
+- Be able to edit the text and add pages, all from an online interface without installing anything.
 
 Below is a screenshot of how the final website will look like:
 
