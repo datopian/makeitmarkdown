@@ -1,6 +1,6 @@
 # Background and motivation
 
-There are many ways to build a website, from classic CMS and blogging platforms like wordpress to wikis etc.
+There are many ways to build a website, from classic CMS and blogging platforms like wordpress, to wikis, etc.
 
 So, what is Markdown, and why use a Markdown-based approach to build websites?
 
@@ -18,7 +18,7 @@ Or to make some text bold, you add two asterisks before and after it, like so:
 
 It's important to note that, even though Markdown symbols change how the text is displayed when it's rendered by a Markdown-compatible viewer, the underlying document is still just a plain text file.
 
-## Why use Markdown? / Why build websites with a markdown-based approach?
+## Why use Markdown?
 
 ### Markdown is simple and intuitive
 
