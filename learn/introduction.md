@@ -1,4 +1,4 @@
-# Make It Markdown - Markdown-based Websites Guide 🚀
+# Make It Markdown: A Markdown-based Websites Guide 🚀
 
 Welcome to Make it Markdown! Here you can learn how to build markdown-based websites – and why a markdown-based approach is awesome 🦸‍♀️
 
