@@ -11,7 +11,7 @@ By the end of this tutorial you will:
 
 Below is a screenshot of how the final website will look like:
 
-![[tutorial-1-final-result.png]]
+![[tutorial-1-result.png]]
 
 ## Prerequisites
 
@@ -121,4 +121,4 @@ To see the new file we've just added, you can navigate to the published page by 
 
 While editing on GitHub UI is acceptable, it has its limitations – it doesn't support working offline, adding multiple files simultaneously, or previewing many markdown syntax elements supported by Flowershow-based websites. We'll delve into these issues and solutions to overcome them in our next tutorial.
 
-[Next: Tutorial 2](tutorial-2.md)
+[[tutorial-2|Next: Tutorial 2]]
