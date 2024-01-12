@@ -71,6 +71,6 @@ Lastly, Obsidian automatically previews formatted text, which can make for a smo
 
 ### What's Next?
 
-- Next, we'll jump into creating a website from scratch using Markdown and Flowershow.
+Next, we'll jump into creating a Markdown-based website from scratch and editing it from an online interface, without installing anything.
 
-[Next](tutorial-1)
+[[tutorial-1|Next: Tutorial 1]]

@@ -20,18 +20,31 @@
             }
           },
           {
-            "id": "1a30d6bb02036a0e",
+            "id": "2cbb05ddeb900626",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn/tutorials/create-a-website-from-scratch.md",
+                "file": "learn/tutorial-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f56c004fd4e92481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learn/tutorials/edit-a-website-locally.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn/tutorial-1.md",
+                "file": "learn/tutorial-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn/tutorial-1.md",
+                "file": "learn/tutorial-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn/tutorial-1.md"
+                "file": "learn/tutorial-2.md"
               }
             }
           }
@@ -158,11 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7cebf8f9c4275ee",
+  "active": "2cbb05ddeb900626",
   "lastOpenFiles": [
-    "learn/assets/tutorial-1-final-result.png",
-    "learn/tutorials/create-a-website-from-scratch.md",
     "learn/tutorial-1.md",
+    "learn/tutorial-2.md",
+    "learn/tutorials/edit-a-website-locally.md",
+    "learn/tutorials/create-a-website-from-scratch.md",
+    "obsidian-content-index-callout.png.md",
+    "learn/tutorial-3.md",
+    "learn/background.md",
+    "learn/introduction.md",
+    "gh-desktop-starting-screen.png.md",
+    "learn/tutorial-4.md",
+    "learn/assets/tutorial-1-final-result.png",
     "learn/assets/tutorial-1-copy-link-to-repo.png",
     "learn/assets/tutorial-1-commit-changes.png",
     "learn/assets/tutorial-1-add-content.png",
@@ -172,13 +193,6 @@
     "learn/assets/tutorial-1-subdomain.png",
     "learn/assets/tutorial-1-add-readme.png",
     "learn/assets/tutorial-1-create-site.png",
-    "learn/assets/tutorial-1-repo-name.png",
-    "learn/assets/tutorial-1-create-new.png",
-    "learn/tutorials/edit-a-website-locally.md",
-    "learn/tutorial-4.md",
-    "learn/tutorial-3.md",
-    "learn/tutorial-2.md",
-    "learn/introduction.md",
-    "learn/background.md"
+    "learn/assets/tutorial-1-repo-name.png"
   ]
 }
