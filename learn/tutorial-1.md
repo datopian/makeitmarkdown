@@ -21,6 +21,7 @@ The only prerequisite for this tutorial is a [GitHub](https://github.com/) accou
 
 ### 1. Navigate to your Github account
 
+
 ### 2. Create a new repository
 
 In GitHub, a [repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) (or 'repo') is a place that contains your code, files, and each file's revision history, for a given project.
@@ -39,9 +40,12 @@ This file will act as a 'home page' for your site.
 
 ### 5. Click 'Create repository'. 
 
+
 ### 6. Navigate to [Flowershow Cloud](https://cloud.flowershow.app/) 
 
+
 ### 7. Sign in to Flowershow with your GitHub account details
+
 
 ### 8. Create a new site
 
@@ -53,13 +57,7 @@ And voila! Your site is up and running. To view your published site, click on th
 
 ### 4. Change your subdomain name
 
-Flowershow automatically generates a subdomain name as a random sequence of characters. 
-
-If you'd like to change your subdomain name, go back to Flowershow Cloud and click on the tab 'Domains'. Under 'Subdomain', enter the name you would like to give to your site. 
-
-Note that you can only use letters, digits, uppercase and lowercase dashes for your subdomain name. 
-
-Click 'Save Changes'.
+Flowershow automatically generates a subdomain name as a random sequence of characters. If you'd like to change your subdomain name, go back to Flowershow Cloud and click on the tab 'Domains'. Under 'Subdomain', enter the name you would like to give to your site. Note that you can only use letters, digits, uppercase and lowercase dashes for your subdomain name. Click 'Save Changes'.
 
 ## Editing a page on your website
 
