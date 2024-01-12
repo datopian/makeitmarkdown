@@ -87,8 +87,38 @@ Once you've committed your changes, GitHub will automatically preview what your 
 
 If you'd like to have easy access to your website's URL from your GitHub repo, go to the 'About' section on your repo (you'll find it on the right-hand side), and click on the settings icon. Here you can paste the URL of your site, along with an optional description.
 
+## Add a single Markdown-based page
+
+Now let's add a page to your site.
+
+### 1. Navigate to your website's repository
+
+
+### 2. Create a new file
+
+Click on "Add file", then and "Create new file".
+
+### 3. Type the name of the new file you want to create
+
+At the end of your file name, make sure to add '.md'. For example, 'about.md'.
+
+### 4. Write the content of the file
+
+
+### 5. Save your changes
+
+To see your changes live, you need to "commit" them. Click on the "Commit changes..." button in the top-right corner.
+
+In the "Commit message" field add a concise description of your changes. Optionally, if the commit message is not enough, you can add more info in the "Extended description" field.
+
+Leave "Commit directly to `main` branch" selected and click on "Commit changes". 
+
+### 6. View your site after changes
+
+To see the new file we've just added, you can navigate to the published page by adding `/about` at the end of your website's URL.
+
 ## What's next?
 
 While editing on GitHub UI is acceptable, it has its limitations – it doesn't support working offline, adding multiple files simultaneously, or previewing many markdown syntax elements supported by Flowershow-based websites. We'll delve into these issues and solutions to overcome them in our next tutorial.
 
-[Next](tutorial-2.md)
+[Next: Tutorial 2](tutorial-2.md)

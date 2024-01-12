@@ -41,5 +41,5 @@
 
 ### 7. What's next?
 
-[Next](tutorial-4.md)
+[Next: Tutorial 4](tutorial-4.md)
 
