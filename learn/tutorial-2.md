@@ -16,9 +16,10 @@ Below is a screenshot of how the final website will look like:
 ![[tutorial-2-result.png]]
 
 ## Prerequisites
-- [Obsidian](https://obsidian.md/) installed
-- [GitHub Desktop](https://desktop.github.com/) installed
-- [Tutorial 1](tutorial-1) complete
+
+- [Obsidian](https://obsidian.md/) installed.
+- [GitHub Desktop](https://desktop.github.com/) installed.
+- [Tutorial 1](tutorial-1) complete.
 
 ## Clone the GitHub repository on your computer
 
@@ -44,7 +45,7 @@ Type the path manually or click "Choose..." to find it using file explorer.
 
 ### 5. Click "Clone" and wait for the process to complete
 
-Done! You've successfully cloned your website's repository on your computer! 🎉
+Done! You've successfully cloned your website's repository on your computer.
 
 ## Edit your site in Obsidian
 
