@@ -2,7 +2,7 @@
 
 Learn how you can build markdown-based websites, docs, knowledgebases and more -- and why a markdown-based approach is awesome 🦸‍♀
 
-[(Link to tutorial sequence)](learn/introduction.md)
+[(Start Learning)](learn/introduction.md)
 
 ## Tutorials
 
