@@ -55,7 +55,7 @@ Click 'Create New Site'. When prompted, select the GitHub account where you crea
 
 And voila! Your site is up and running. To view your published site, click on the link that has been generated for you (ending in '.flowershow.app').
 
-### 4. Change your subdomain name
+### 10. Change your subdomain name
 
 Flowershow automatically generates a subdomain name as a random sequence of characters. If you'd like to change your subdomain name, go back to Flowershow Cloud and click on the tab 'Domains'. Under 'Subdomain', enter the name you would like to give to your site. Note that you can only use letters, digits, uppercase and lowercase dashes for your subdomain name. Click 'Save Changes'.
 
